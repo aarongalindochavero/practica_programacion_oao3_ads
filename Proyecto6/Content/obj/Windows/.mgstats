@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Controls/Button.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Controls/Button.xnb","TextureProcessor","Texture2DContent",324,25685,0.1486038
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Fonts/Font.spritefont","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Fonts/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.195477
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/gameover.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/gameover.xnb","TextureProcessor","Texture2DContent",542,28309,0.0349065
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/newgame.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/newgame.xnb","TextureProcessor","Texture2DContent",565,28309,0.0039948
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/block_16.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/block_16.xnb","TextureProcessor","Texture2DContent",8587,640085,0.0259234
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/block_2.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/block_2.xnb","TextureProcessor","Texture2DContent",6731,640085,0.0229404
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/block_32.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/block_32.xnb","TextureProcessor","Texture2DContent",9861,640085,0.0279281
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/block_4.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/block_4.xnb","TextureProcessor","Texture2DContent",9530,320441,0.01197
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/block_64.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/block_64.xnb","TextureProcessor","Texture2DContent",10673,640085,0.0369004
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/block_8.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/block_8.xnb","TextureProcessor","Texture2DContent",9977,640085,0.0249329
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/Sprites/tablero.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/Sprites/tablero.xnb","TextureProcessor","Texture2DContent",7311,3041485,0.1256787
+"C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/youwon.png","C:/Users/aaron/Downloads/Proyecto6/Proyecto6/Content/bin/Windows/youwon.xnb","TextureProcessor","Texture2DContent",550,28309,0.0229408
